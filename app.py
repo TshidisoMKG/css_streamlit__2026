@@ -7,7 +7,7 @@ Created on Tue Jan 27 17:32:56 2026
 
 import streamlit as st
 
-st.write("Hello2")
+st.write("Hello Friends")
 
 st.title("Title heading")
 
@@ -19,5 +19,6 @@ st.header("Number selection")
 
 number = st.slider("Pick a number", 1, 100)
 st.write(f"You picked: {number}")
+
 
 st.markdown("Some text that you can write")
