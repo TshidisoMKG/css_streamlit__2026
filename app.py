@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan 27 17:32:56 2026
+Created on Wed Jan 28 14:56:51 2026
 
-@author: BBarsch
+@author: Tshidiso
 """
 
 import streamlit as st
 
-st.write("Hello Friends")
-
-st.title("Title heading")
+st.title("Tshidiso Mokgele | Student | Research |")
 
 st.write("Hello, Streamlit!")
 
@@ -22,3 +20,4 @@ st.write(f"You picked: {number}")
 
 
 st.markdown("Some text that you can write")
+
